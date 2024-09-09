@@ -9,4 +9,4 @@ It contains:
 4. Hyperparameter tuning
 5. Time series cross validation
 
-The repo is self-contained and is designed to run in Google Colab. But you can run it locally by adjusting the files directories.
+The repo is self-contained and is designed to be run in Google Colab. But you can run it locally by adjusting the files directories.
